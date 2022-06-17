@@ -1,14 +1,18 @@
 # AEM Banana REACT !!! 🍌![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
-This is a react project build with goodness of Banana !! .. I don't know why i chose banana as a name  😏🦄 
+This is a react AEM project build with goodness of Banana !! .. I don't know why i chose banana as a name  😏🦄 
 
 
 
 
 Java Script GEEEKS Please Contributewwewewewe .. !! <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+
+
+There is also some JAVA <img align="left" alt="Java" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px," />
+
 
 ## Modules
 (Just copy paste stuff of what adobe provides)
