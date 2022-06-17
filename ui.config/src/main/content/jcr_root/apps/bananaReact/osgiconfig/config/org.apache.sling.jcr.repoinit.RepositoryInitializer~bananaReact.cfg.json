@@ -1,0 +1,10 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/bananaReact",
+        "create path (nt:unstructured) /content/dam/bananaReact/jcr:content",
+        "set properties on /content/dam/bananaReact/jcr:content",
+        "set cq:conf{String} to /conf/bananaReact",
+        "set jcr:title{String} to \"bananaReact\"",
+        "end"
+    ]
+}
